@@ -1,0 +1,4 @@
+numpy
+streamly
+plotly
+statsmodels
