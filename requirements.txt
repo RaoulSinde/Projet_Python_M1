@@ -2,3 +2,4 @@ numpy
 streamly
 plotly
 statsmodels
+pandas
